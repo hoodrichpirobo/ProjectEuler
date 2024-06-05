@@ -12,4 +12,3 @@ Feel free to add me as a friend on Project Euler to track my progress. My key is
 
 **2127066_TVJ1wWAb6fqh3TZXOXB9NMCFxciUQ9L4**
 
-Happy coding!
